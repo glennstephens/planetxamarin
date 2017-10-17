@@ -240,6 +240,7 @@
     <Compile Include="App_Start\ContainerConfig.cs" />
     <Compile Include="App_Start\IoC.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Authors\ElbrinnerDaSilvaFernandes.cs" />
     <Compile Include="Authors\MahmoudAli.cs" />
     <Compile Include="Authors\NigelFerrissey.cs" />
     <Compile Include="Authors\DamianMehers.cs" />
@@ -281,9 +282,9 @@
     <Compile Include="Authors\SRaviKumar.cs" />
     <Compile Include="Authors\StevenThewissen.cs" />
     <Compile Include="Authors\RyanDavis.cs" />
+    <Compile Include="Authors\ThomasBurkhart.cs" />
     <Compile Include="Authors\Suthahar.cs" />
     <Compile Include="Authors\ThomasBandt.cs" />
-    <Compile Include="Authors\ThomasBurkhart.cs" />
     <Compile Include="Authors\TimotheLariviere.cs" />
     <Compile Include="Authors\MFractor.cs" />
     <Compile Include="Authors\TomSoderling.cs" />
@@ -298,6 +299,7 @@
     <Compile Include="Authors\WilliamRodriguez.cs" />
     <Compile Include="Authors\JanTourlamain.cs" />
     <Compile Include="Authors\WinstonGubantes.cs" />
+    <Compile Include="Authors\WilsonVargas.cs" />
     <Compile Include="Authors\JohnWilson.cs" />
     <Compile Include="AutofacModules\FeedsModule.cs" />
     <Compile Include="AutofacModules\WebModule.cs" />
@@ -357,6 +359,7 @@
     <Compile Include="Authors\JesseLiberty.cs" />
     <Compile Include="Authors\RendyDelRosario.cs" />
     <Compile Include="Authors\JoeMeyer.cs" />
+    <Compile Include="Authors\MarkoLazic.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\web.config" />
